@@ -6,8 +6,8 @@
 
 
 ## Sumário
-- [Descrição do desenvolvimento do teste dos diversos tipos de luz](https://github.com/MariaCaetanoRizzo/Luzaral/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#descri%C3%A7%C3%A3o-do-desenvolvimento-do-teste-dos-diversos-tipos-de-luz)
-- [Configuração 1](https://github.com/MariaCaetanoRizzo/Luzaral/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-1)
-- [Configuração 2](https://github.com/MariaCaetanoRizzo/Luzaral/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-2)
-- [Configuração 3](https://github.com/MariaCaetanoRizzo/Luzaral/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-3)
-- [Referência de pesquisa](https://github.com/MariaCaetanoRizzo/Luzaral/wiki/Refer%C3%AAncia#refer%C3%AAncia-de-pesquisa)
+- [Descrição do desenvolvimento do teste dos diversos tipos de luz](https://github.com/MariaCaetanoRizzo/luzaral-2026-08-21_07-55-03/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#descri%C3%A7%C3%A3o-do-desenvolvimento-do-teste-dos-diversos-tipos-de-luz)
+- [Configuração 1](https://github.com/MariaCaetanoRizzo/luzaral-2026-08-21_07-55-03/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-1)
+- [Configuração 2](https://github.com/MariaCaetanoRizzo/luzaral-2026-08-21_07-55-03/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-2)
+- [Configuração 3](https://github.com/MariaCaetanoRizzo/luzaral-2026-08-21_07-55-03/wiki/Descri%C3%A7%C3%A3o-do-desenvolvimento#configura%C3%A7%C3%A3o-3)
+- [Referência de pesquisa](https://github.com/MariaCaetanoRizzo/luzaral-2026-08-21_07-55-03/wiki/Refer%C3%AAncia#refer%C3%AAncia-de-pesquisa)
